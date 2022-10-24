@@ -3,6 +3,6 @@
 
 from models import Calcular
 
-calc: Calcular = Calcular(1)
 
-print(calc)
+class TestGamePy:
+    pass
